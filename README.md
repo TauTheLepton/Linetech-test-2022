@@ -2,9 +2,9 @@
 
 Hi,
 
-Fork this repository. Answers for every question should be placed in separate directories, named the same as the task number. Hyperlink to your fork of this repository will be treated as an answer.
+Clone this repository. Answers for every question should be placed in separate directories, named the same as the task number. Hyperlink to your public clone of this repository, uploaded to any GIT platform, will be treated as an answer.
 
-If you don’t know what ‘fork’ is or you are not able to upload answers to (any) git-enabled platform, e.g. GitHub, GitLab. Then download the repository as a .zip file and send it back to us with answers, packed as .zip, to mateusz.ciolkosz@linetech.pl
+If you don’t know how to clone or you are not able to upload answers to (any) git-enabled platform, e.g. GitHub, GitLab. Then download the repository as a .zip file and send it back to us with answers, packed as .zip, to mateusz.ciolkosz@linetech.pl
 
 ## Task 1
 
