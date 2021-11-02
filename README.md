@@ -25,7 +25,8 @@ Write template class definition in language C++17. Class should:
 - have template type parameter n, assume that n will be always a trivial type,
 - have private data member 'x' of type n,
 - have public reference getter for 'x' member,
-- be default constructible,
+- can not be default constructable,
+- have parametrized constructor,
 - be copy and move assignable/constructable. 
 
 ## Disclaimer
