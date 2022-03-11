@@ -6,6 +6,8 @@ Clone this repository. Answers for every question should be placed in separate d
 
 If you don’t know how to clone or you are not able to upload answers to (any) git-enabled platform, e.g. GitHub, GitLab. Then download the repository as a .zip file and send it back to us with answers, packed as .zip, to michal.modzelewski@linetech.pl
 
+**EDIT**: If you are not sure if you have correctly uploaded your solutions to the GIT platform (so that it is visible to the repository owner), please send an email with a link to your repository to michal.modzelewski@linetech.pl
+
 ## Task 1
 
 Write a program, in C++ language, that launches two separate threads, using std::async. The first thread will have to return the arithmetic average of the dataset, and the second one should return the median value. Threads should be running in parallel. When return values from threads are collected, the main thread has to compare them and write to standard output which of them is bigger. Input data is in “1/data.txt”.
