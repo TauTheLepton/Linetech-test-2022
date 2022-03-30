@@ -16,4 +16,6 @@ If we have such a transformation matrix from every link to the next one in the w
 
 We can safely assume it is easy to find the measured point in the coordinate system corresponding to the end effector, because the laser distance sensor is, most probably, positioned parallelly to the Z-axis of this coordinate system, so the measurement of the laser distance scanner is just offset on the Z-axis with the other offsets (X and Y) being 0.
 
-If we have coordinates of this point and know that the base link is in the center of its coordinate system we need to solve this simple equation: $d = \sqrt{x^2 + y^2 + z^2}$.
+If we have coordinates of this point and know that the base link is in the center of its coordinate system we need to solve this simple equation:
+
+d = sqrt( x^2 + y^2 + z^2 )
